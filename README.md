@@ -1,8 +1,5 @@
-# Foundation-To-Algorithms
-The image you sent me contains a coding question about employee performance evaluation. The text in the image is as follows:
 
-
-**Question 1 (10 marks)**
+**Question 1**
 
 You are an IT company's manager. Based on their performance over the last N working days, you must rate your employee. You are given an array of N integers called workload, where workload[i] represents the number of hours an employee worked on an ith day. The employee must be evaluated using the following criteria:
 
